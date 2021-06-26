@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PruebaPractica3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PruebaPractica3_jar</output-path>
+    <root id="archive" name="PruebaPractica3.jar">
+      <element id="module-output" name="PruebaPractica3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcommon-1.0.23 (1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jfreechart-1.0.14 (1).jar" path-in-jar="/" />
+      <element id="library" level="project" name="jcommon-1.0.23 (1)" />
+    </root>
+  </artifact>
+</component>
